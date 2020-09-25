@@ -10,7 +10,7 @@
 </a>
 
 <br />
-
+<br />
 
 Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from India.
 
