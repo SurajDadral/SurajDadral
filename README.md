@@ -10,6 +10,7 @@
 </a>
 
 <br />
+
 Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/SurajDadral/SurajDadral/blob/master/code.gif?raw=true" width="500" height="320" />
