@@ -14,7 +14,7 @@
 
 Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/SurajDadral/SurajDadral/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="SurajDadral" src="https://github-readme-stats.vercel.app/api?username=SurajDadral&show_icons=true&theme=gotham" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
@@ -32,9 +32,3 @@ Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDadral&langs_count=10&hide=javascript,html,css&layout=compact&theme=gotham)
-
-
-
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SurajDadral&show_icons=true&theme=gotham" alt="SurajDadral" />
