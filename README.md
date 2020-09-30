@@ -14,7 +14,7 @@
 
 Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from India.
 
-  <img align="right" alt="SurajDadral" src="https://github-readme-stats.vercel.app/api?username=SurajDadral&show_icons=true&theme=gotham" width="500" height="320" />
+  <img align="right" alt="SurajDadral" src="https://github-readme-stats.vercel.app/api?username=SurajDadral&show_icons=true&theme=gotham" />
 
 **Talking about Personal Stuffs:**
 
