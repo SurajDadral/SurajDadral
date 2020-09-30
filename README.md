@@ -25,10 +25,11 @@ Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from 
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://www.freecadweb.org/images/logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><a href="https://freecadweb.org"><img height="20" src="https://www.freecadweb.org/images/logo.png"></a></code>
+<code><a href="https://wiki.qt.io/Qt_for_Python"><img height="20" src="https://qt-wiki-uploads.s3.amazonaws.com/images/3/33/Py-128.png"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img src="https://img.shields.io/badge/Python-282%20commits-orange.svg" alt="Python"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDadral&langs_count=10&hide=javascript,html,css&layout=compact&theme=gotham)
 
