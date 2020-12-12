@@ -9,12 +9,15 @@
   <img align="left" alt="Suraj's StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/stackoverflow.svg" />
 </a>
 
+<a href="https://twitter.com/SurajDadral">
+  <img align="left" alt="Suraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/twitter.svg" />
+</a>
+
 <br />
 <br />
 
 Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from India.
 
-  <img align="right" alt="SurajDadral" src="https://github-readme-stats.vercel.app/api?username=SurajDadral&show_icons=true&theme=gotham" />
 
 **Talking about Personal Stuffs:**
 
@@ -31,4 +34,3 @@ Hi, I'm [Suraj](https://sourcerer.io/surajdadral), a Python Developer 🚀 from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDadral&langs_count=10&hide=javascript,html,css&layout=compact&theme=gotham)
