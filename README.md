@@ -24,7 +24,7 @@ Hi, I'm Suraj, a Python Developer 🚀 from India.
 - 👨🏽‍💻 I’m currently working on something cool 😉;
 - 🔭 I’m currently working on enhancing my skills in Python and FreeCAD.
 - 💬 Feel free to reach me anytime;
-- 📫 How to reach me: Just drop an Email at dadralj18@gmail.com;
+- 📫 How to reach me: Just drop an Email at surajdadral.py@gmail.com;
 
 **Languages and Tools:**
 
